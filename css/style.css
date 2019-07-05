@@ -1,0 +1,9 @@
+body{
+    background-image: url(./soup.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+image{
+    width: 50%;
+    height: 50%
+}
